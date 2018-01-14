@@ -1,0 +1,28 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic5.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 275px;
+    font-size: 70px;
+}

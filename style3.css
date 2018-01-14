@@ -1,0 +1,61 @@
+
+body
+{
+background-image: url(pic8.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.simple-form
+{
+    text-align: center;
+    margin: 200px 550px;
+    
+}
+#register
+{
+    width: 600px;
+    background-color:#051019;
+    opacity: 0.5;
+    padding: 50px 0px;
+}
+#b1
+{
+    width: 250px;
+    padding: 10px;
+    border-radius: 4px;
+}
+#ph
+{
+    width: 50px;
+    padding: 10px;
+    border-radius: 4px;
+}
+#phone
+{
+    width: 200px;
+    padding: 10px;
+    border-radius: 4px;
+}
+#rd 
+{
+
+}
+#but
+{
+color: white;
+font-size: 18px;
+}
+#butt
+{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: cyan;
+    border:2px solid #01010c;
+    font-size: 18px;
+}
+#butt:hover
+{
+    background-color:#fff;
+}
