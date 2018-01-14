@@ -11,18 +11,32 @@ header
     background-position: center;
 
 }
-.hero
+.welcome
 {
     position: absolute;
     width: 1200px;
     margin-left: 250px;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 h1
 {
     color: white;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 275px;
+    margin-top: 50px;
     font-size: 70px;
+}
+.parabox
+{
+width: 900px;
+height: 480px;
+background:#000;
+color: #fff;
+top:250%;
+left:50%;
+position:absolute;
+transform: translate(-50%,-50%);
+box-sizing: border-box;
+padding: 70px 30px; 
+opacity: 0.8;
 }
